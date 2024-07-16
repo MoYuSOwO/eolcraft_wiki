@@ -64,6 +64,6 @@
 
 
 
-**最后，Enjoy your games！（ps：如果你是种田党，请看这个）**
+**最后，Enjoy your games！（ps：如果你是种田党，请看**[**这个**](te-se-you-xi-ji-zhi-yu-gui-ze.md#geng-bi-zhen-de-zhi-wu-sheng-zhang)**）**
 
 ~~**记住不懂的可以问腐竹，腐竹和管理都是大（xiao）好（nan）人（niang）口牙！（划掉**~~
