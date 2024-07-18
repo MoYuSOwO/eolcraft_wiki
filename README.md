@@ -8,7 +8,7 @@ eolcraft目前正处于开荒期间，服务器百废待兴，是建筑党和商
 
 ps：
 
-服务器地址：mc.eolcaft.com
+服务器地址：mc.eolcraft.com
 
 服务器wiki官网：wiki.eolcraft.com
 
