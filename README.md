@@ -14,7 +14,7 @@ eolcraft社区的两个服务器目前都正处于开荒期间，服务器百废
 
 ps：
 
-eolmain地址：mc.eolcraft.com（1.20.1专属客户端）
+eoladv地址：mc.eolcraft.com（1.20.1专属客户端）
 
 eolrs地址：rs.eolcraft.com（原生版本为1.20.4，建议1.20+游玩，无专属客户端）
 
